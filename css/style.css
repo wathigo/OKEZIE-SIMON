@@ -1,0 +1,14 @@
+@media only screen and (min-width: 768px) {
+    body {
+        position: relative;
+    }
+    #navbar {
+        float: left;
+        display: block;
+        margin: auto;
+    }
+    #main-doc{
+        float: right;
+        margin: auto;
+    }
+}
